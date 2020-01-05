@@ -1,0 +1,15 @@
+spike.twilio.auth-token=<Twilio auth token>
+spike.twilio.account-sid=<Twilio SID>
+
+
+spike.twilio.server=<web server for Twilio to contact when call comes in>
+
+spike.twilio.number=<Twilio phone number>
+
+spike.twilio.mobile-number=<example phone number to call>
+spike.twilio.land-line-number=<second example phone number to call>
+
+spike.twilio.aws-access-key=<AWS access key>
+spike.twilio.aws-secret-key=<AWS secret key>
+spike.twilio.aws-region=<AWS region>
+spike.twilio.aws-bucket-name=<AWS bucket name>
